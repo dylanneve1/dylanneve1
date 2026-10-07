@@ -20,6 +20,8 @@ Computer engineering student at **Trinity College Dublin** (MAI). I work on **ex
 | Project | What it is |
 |---|---|
 | [**Talon**](https://github.com/thefalconry/talon) | Open-source, multi-platform agent harness (Telegram, Discord, Teams, terminal) with pluggable model backends, MCP tools and persistent background agents |
+| [**OpenVINO**](https://github.com/openvinotoolkit/openvino/pulls?q=is%3Apr+is%3Amerged+author%3Adylanneve1) | 27 merged contributions to the NPU plugin (NPUW): synthetic model builder, continuous prefill / KV cache, embedding & reranker scoring |
+| [**OpenVINO GenAI**](https://github.com/openvinotoolkit/openvino.genai/pulls?q=is%3Apr+is%3Amerged+author%3Adylanneve1) | Text reranking on NPU for RAG; benchmark support for newer models |
 | [**qsim-lab**](https://github.com/dylanneve1/qsim-lab) | Exact quantum circuit simulator (Rust + Python) and the research built on it |
 | [**Islet**](https://github.com/dylanneve1/islet) | Material 3 Expressive "dynamic island" for Pixel, with runtime cutout detection and no network permission |
 | [**CarDash**](https://github.com/dylanneve1/cardash) | Material 3 launcher for Android car head units; no AndroidX, no Gradle |
