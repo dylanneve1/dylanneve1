@@ -1,6 +1,6 @@
 ### Hi, I'm Dylan 👋
 
-Computer engineering student at **Trinity College Dublin** (MAI). I work on **exact quantum circuit simulation**, on the **classical verification of quantum-advantage claims**, and on **AI systems**.
+Computer engineering student at **Trinity College Dublin** (MAI). I work on **exact quantum circuit simulation**, on the **classical verification of quantum-advantage claims**, and on **AI systems**. Currently at **Intel**, working on NPU software.
 
 🌐 [dylanneve1.github.io](https://dylanneve1.github.io) · 📫 neved@tcd.ie
 
